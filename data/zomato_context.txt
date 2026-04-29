@@ -1,0 +1,22 @@
+Zomato is a leading food delivery platform in India, offering restaurant discovery, food delivery, and dining-out services.
+Key metrics tracked by Zomato include:
+- Order Conversion Rate: Percentage of app visits that result in completed orders
+- Average Order Value (AOV): Average amount spent per order
+- Monthly Active Users (MAU): Number of unique users active in a month
+- Order Fulfillment Rate: Percentage of orders successfully delivered
+- Restaurant Partner Ratings: Average rating given to restaurant partners
+- Delivery Time: Average time taken to deliver an order
+- Customer Satisfaction Score: Rating given by users after order completion
+
+Zomato's business model includes:
+- Commission from restaurant partners on orders
+- Delivery fees from customers
+- Subscription services like Zomato Pro
+- Advertising revenue from featured restaurants
+
+Common challenges faced by Zomato include:
+- Managing peak demand during lunch and dinner hours
+- Ensuring quality control across diverse restaurant partners
+- Optimizing delivery logistics in congested urban areas
+- Addressing customer complaints about order issues
+- Retaining both customers and delivery partners in a competitive market.

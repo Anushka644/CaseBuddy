@@ -1,0 +1,16 @@
+Common Zomato RCA Interview Cases:
+
+1. Conversion Rate Drop:
+"Zomato has observed that lunch order conversion rate is only 2% compared to 10% for breakfast and dinner. Why might this be happening and how would you address it?"
+
+2. Delivery Complaints:
+"There has been a sudden 30% increase in complaints about partial order deliveries. What could be causing this and how would you solve it?"
+
+3. Restaurant Rating Decline:
+"Average restaurant ratings in Pune have dropped 10% over the last month. How would you investigate and address this issue?"
+
+4. User Retention Problem:
+"Weekly active users in Bangalore have declined by 15% despite increased marketing spend. What could be the root causes?"
+
+5. Delivery Time Increases:
+"Average delivery time has increased from 28 to 35 minutes in Delhi NCR region. How would you approach this problem?"

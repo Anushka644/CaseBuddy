@@ -1,0 +1,21 @@
+Root Cause Analysis (RCA) in Product Management:
+
+1. Problem Identification: Clearly define the issue with specific metrics.
+2. Data Collection: Gather relevant data points to understand the problem scope.
+3. Hypothesis Formation: Create potential explanations for the observed issue.
+4. Data Analysis: Test hypotheses against available data.
+5. Root Cause Identification: Determine the fundamental causes.
+6. Solution Development: Create targeted solutions addressing root causes.
+7. Implementation Planning: Develop an action plan with clear ownership.
+
+Common RCA frameworks include:
+- Five Whys: Repeatedly asking "why" to drill down to root causes.
+- Fishbone Diagram: Identifying causal factors in categories like People, Process, Technology.
+- Pareto Analysis: Focusing on the vital few causes rather than the trivial many.
+
+Effective RCA answers should:
+- Begin with structured problem definition.
+- Use data-driven approach rather than assumptions.
+- Consider multiple hypotheses before concluding.
+- Prioritize solutions based on impact and feasibility.
+- Include measurement plan for solution effectiveness.
